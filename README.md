@@ -1,5 +1,6 @@
 # SyriaTel Customer Churn Analysis
 
+![Alt text](./images.png)
 
 
 # 1. PROJECT OVERVIEW
